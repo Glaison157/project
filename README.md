@@ -68,11 +68,6 @@ try:
                     print("Winter")
                 elif OUTPUT==3:
                     print("Summer")
-                
-
-
-
-
-
+         
 except Exception as e:
     print(e)
